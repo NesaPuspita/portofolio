@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Website</title>
-	<atom:link href="https://https://nesapuspita.github.io/portofolio/index.php/feed/" rel="self" type="application/rss+xml" />
-	<link>https://https://nesapuspita.github.io/portofolio</link>
+	<atom:link href="https://nesapuspita.github.io/portofolio/index.php/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nesapuspita.github.io/portofolio</link>
 	<description></description>
 	<lastBuildDate>Fri, 24 Mar 2023 12:32:49 +0000</lastBuildDate>
 	<language>id</language>
